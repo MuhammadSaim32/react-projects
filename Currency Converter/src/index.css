@@ -1,0 +1,38 @@
+#body {
+  height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+  background-color: black;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#com {
+  height: 30vh;
+  width: 50vw;
+  background-color: gray;
+
+}
+
+#input {
+  width: 40vw;
+  height: 7vh;
+  margin-left: 15px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+#cp {
+  height: 8vh;
+  width: 5vw;
+  margin-left: 7px;
+  border-radius: 10px;
+}
+
+
+#range {
+  margin-top: 25px;
+}
